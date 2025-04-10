@@ -167,6 +167,7 @@ html, body {
 
 .header {
     margin-bottom: 40px;
+    background-color: white;
 }
 
 .poppins-bold-header {
@@ -174,7 +175,12 @@ html, body {
     font-weight: 700;
     font-style: normal;
     font-size: 3rem;
+    margin-top: 35px;
     color: #0a4067;
+}
+
+.logo {
+    margin-top: 35px;
 }
 
 .body {
@@ -295,6 +301,7 @@ input[type=submit]:hover {
 
 .social-media-logos {
     margin-top: 40px;
+    padding-top: 40px;
 }
   
 /* Clear floats after the columns */
