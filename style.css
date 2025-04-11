@@ -32,6 +32,7 @@ html, body {
     font-size: 2rem;
     margin-top: 40px;
     color: #0a4067;
+    /* color: #1a3b66; */
 }
 
 .poppins-medium {
@@ -177,6 +178,7 @@ html, body {
     font-size: 3rem;
     margin-top: 35px;
     color: #0a4067;
+    /* color: #1A3B66; */
 }
 
 .logo {
@@ -184,13 +186,15 @@ html, body {
 }
 
 .body {
-    background-color: #F1A801;
+    /* background-color: #F1A801; */
+    background-color: #ffbb55;
     padding-top: 20px;
     padding-bottom: 20px;
 }
 
 .footer {
-    background-color: #0a4067;
+    /* background-color: #0a4067; */
+    background-color: #1A3B66;
 }
 
 .footer a {
