@@ -202,10 +202,19 @@ html, body {
     padding-bottom: 20px;
 }
 
-.iframe {
+
+
+.page-content {
+    height: 100vh; /* Use 100vh to take the full viewport height */
+    display: flex;
+    justify-content: center;
+    align-items: center; /* Optionally center the iframe */
+}
+
+iframe {
     width: 100%;
-    border: none;
-    overflow: hidden;
+    height: 100%; /* Make the iframe take full height of its parent */
+    border: none; /* Remove border for a clean look */
 }
 
 .footer {
