@@ -11,6 +11,7 @@ This page can be used for people to see premade videos for common question and i
 - Use the embeded form to submit issues 
 - Live visitor counter that tracks how many people have been on the page
 - Everything should be commented, to see where each section is
+- The button to reset the counter is commented out
 
 ## Run Locally
 
