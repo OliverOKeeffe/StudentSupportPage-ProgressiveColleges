@@ -35,6 +35,16 @@ html, body {
     /* color: #1a3b66; */
 }
 
+.poppins-regular-header {
+    font-family: "Poppins", sans-serif;
+    font-weight: 550;
+    font-style: normal;
+    font-size: 1rem;
+    margin-top: 40px;
+    color: #0a4067;
+    /* color: #1a3b66; */
+}
+
 .poppins-medium {
     font-family: "Poppins", sans-serif;
     font-weight: 500;
