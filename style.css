@@ -192,6 +192,12 @@ html, body {
     padding-bottom: 20px;
 }
 
+.iframe {
+    width: 100%;
+    border: none;
+    overflow: hidden;
+}
+
 .footer {
     /* background-color: #0a4067; */
     background-color: #1A3B66;
