@@ -181,6 +181,10 @@ html, body {
     background-color: white;
 }
 
+.top-footer {
+    background-color: #1a3b66;
+}
+
 .poppins-bold-header {
     font-family: "Poppins", sans-serif;
     font-weight: 700;
@@ -220,6 +224,7 @@ iframe {
 .footer {
     /* background-color: #0a4067; */
     background-color: #1A3B66;
+    width: 100%;
 }
 
 .footer a {
